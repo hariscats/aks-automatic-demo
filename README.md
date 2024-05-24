@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed and configured:
 2. **Run the Bicep file to create resources**:
     ```bash
     az group create --name myResourceGroup --location eastus
-    az deployment group create --resource-group myResourceGroup --template-file ./infrastructure/main.bicep
+    az deployment group create --resource-group myResourceGroup --template-file ./infra/main.bicep
     ```
 
 ### Step 2: Deploy the Application
