@@ -1,0 +1,84 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Environment variables
+.env
+
+# Bower dependency directory
+bower_components/
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+
+# Bicep
+*.bicep.cache
+
+# Kubernetes
+*.kube/
+kubeconfig
+config
+
+# Helm
+charts/
+helm-repos/
+*.tgz
+.release
+
+# Build directories
+dist/
+build/
+out/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.bak
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Azure CLI config
+.azure/
+
+# Azure DevOps
+.terraform.lock.hcl
+
+# Other
+*.zip
+*.tar.gz
+*.temp
