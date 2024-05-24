@@ -38,3 +38,33 @@ flowchart TD
 
     J --> AA[Consult Azure Documentation]
     AA --> AB[Consider Alternative Solutions]
+
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#ff9,stroke:#333,stroke-width:4px
+    style C fill:#9f9,stroke:#333,stroke-width:4px
+    style D fill:#ff9,stroke:#333,stroke-width:4px
+    style E fill:#ff9,stroke:#333,stroke-width:4px
+    style F fill:#f99,stroke:#333,stroke-width:4px
+    style G fill:#9f9,stroke:#333,stroke-width:4px
+    style H fill:#ff9,stroke:#333,stroke-width:4px
+    style I fill:#9f9,stroke:#333,stroke-width:4px
+    style J fill:#f99,stroke:#333,stroke-width:4px
+    style K fill:#ff9,stroke:#333,stroke-width:4px
+    style L fill:#9f9,stroke:#333,stroke-width:4px
+    style M fill:#9f9,stroke:#333,stroke-width:4px
+    style N fill:#9f9,stroke:#333,stroke-width:4px
+    style O fill:#ff9,stroke:#333,stroke-width:4px
+    style P fill:#f99,stroke:#333,stroke-width:4px
+    style Q fill:#f99,stroke:#333,stroke-width:4px
+    style R fill:#f99,stroke:#333,stroke-width:4px
+    style S fill:#f99,stroke:#333,stroke-width:4px
+    style T fill:#9f9,stroke:#333,stroke-width:4px
+    style U fill:#9f9,stroke:#333,stroke-width:4px
+    style V fill:#9f9,stroke:#333,stroke-width:4px
+    style W fill:#f99,stroke:#333,stroke-width:4px
+    style X fill:#f99,stroke:#333,stroke-width:4px
+    style Y fill:#f99,stroke:#333,stroke-width:4px
+    style Z fill:#f99,stroke:#333,stroke-width:4px
+    style AA fill:#ff9,stroke:#333,stroke-width:4px
+    style AB fill:#ff9,stroke:#333,stroke-width:4px
+    classDef default font-size:18px;
